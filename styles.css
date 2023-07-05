@@ -1,0 +1,37 @@
+body {
+background-color: #E6E6FA;
+}
+
+#mama {
+text-align: center;
+width: 200px;
+height: 200px;
+border-radius: 50px
+border: solid 1px;
+}
+
+h1 {
+font-family: serif;
+border: solid 2px;
+border-radius: 20px;
+background-color: #ADDFFF;
+color: white;
+width: 200px
+}
+
+h2 {
+font-family: serif;
+border: solid 1px;
+border-radius: 10px;
+background-color: #F0FFFF;
+color: #4169E1;
+width: 200px;
+}
+
+p {
+width: 310px;
+border: solid 1px;
+background-color: white;
+color: black;
+font-family: serif;
+}
